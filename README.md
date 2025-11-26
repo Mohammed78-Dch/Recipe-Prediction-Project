@@ -16,11 +16,11 @@ The analysis involves data validation and cleaning, exploratory data analysis (E
 
 **Submitted by:** DECHRAOUI Mohammed
 
-This repository contains the Jupyter notebook (`notebook (6).ipynb`) with all code, outputs, visualizations, and explanations.
+This repository contains the Jupyter notebook (`notebook.ipynb`) with all code, outputs, visualizations, and explanations.
 
 ## Dataset
 
-- **Source:** `recipe_site_traffic_2212.csv` (included in the repository).
+- **Source:** `recipe_site_traffic.csv` (included in the repository).
 - **Description:** Contains 947 recipes with columns:
   - `recipe`: Unique ID (int).
   - `calories`, `carbohydrate`, `sugar`, `protein`: Nutritional values (float, with 52 missing values each).
