@@ -126,11 +126,6 @@ The project follows a structured data science pipeline:
 
 4. View Results: Outputs include tables, plots, metrics, and KPI calculations.
 
-## Results Visualization
-
-Example EDA Plot (Category vs. Traffic):
-![EDA Example](images/eda_category_traffic.png)  
-*(Generate and save plots in an `images/` folder for better README integration.)*
 
 ## License
 
@@ -138,7 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or collaborations, reach out to DECHRAOUI Mohammed at [your.email@example.com].
+For questions or collaborations, reach out to DECHRAOUI Mohammed at [dechraoui.mohammed78@gmail.com].
 
 ---
 
