@@ -136,5 +136,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or collaborations, reach out to DECHRAOUI Mohammed at [dechraoui.mohammed78@gmail.com].
 
 ---
-
-This README provides a professional overview of your work. Upload the notebook, dataset, and any generated images/plots to your GitHub repo. If you have specific images or additional files, reference them accordingly. Feel free to customize further!
